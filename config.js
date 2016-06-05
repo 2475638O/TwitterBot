@@ -1,11 +1,11 @@
 
 module.exports = {
 
-  consumer_key:         'TILVqHcgqijLbTtraNj3MKKyb',
+  consumer_key:         'PUT YOUR CONSUMER KEY HERE',
 
-  consumer_secret:      'P8dfXORII8QKdLMNNwZO5rOyPw1fV4xGX30O8QcSmuJpsP9BxF',
+  consumer_secret:      'PUT YOUR CONSUMER SECRET HERE',
 
-  access_token:         '725699529132138497-j4YjP5VPFKkO1Ppd9BB0lyDXmvpFreg',
+  access_token:         'PUT YOUR ACCESS TOKEN HERE',
 
-  access_token_secret:  'oUpxFadaPOMLl7QTS1P5QcSHNQczwP1XMB61ZjlCrwvM4'
+  access_token_secret:  'PUT YOUR ACCESS TOKEN SECRET HERE'
  }
